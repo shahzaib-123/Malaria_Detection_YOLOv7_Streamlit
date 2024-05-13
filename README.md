@@ -18,3 +18,6 @@ To run the Streamlit application, use the following command:
 ```bash
 streamlit run streamlit_yolov7.py
 ```
+
+### EXAMPLE PREDICTIONS:
+![Alt text](https://raw.githubusercontent.com/shahzaib-123/Malaria_Detection_YOLOv7_Streamlit/main/predictions/prediction1.png)
