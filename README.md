@@ -12,10 +12,10 @@ Before running the project, you need to install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
-
-Running the Application
+```
+### Running the Application
 To run the Streamlit application, use the following command:
 
-bash
-Copy code
+```bash
 streamlit run streamlit_yolov7.py
+```
