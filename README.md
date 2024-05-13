@@ -1,11 +1,10 @@
-# YOLOv7 Object Detection with Streamlit
+# MALARIA INFECTED CELLS DETECTION USING YOLOV7
 
-This project integrates YOLOv7 with Streamlit to provide a simple web interface for real-time object detection.
+This project integrates YOLOv7 with Streamlit to provide a simple web interface for real-time object detection of Malaria Infected Cells.
 
 ## Getting Started
 
-Follow these instructions to get the project up and running on your local machine for development and testing purposes.
-
+Follow these instructions to get the project up and running on your local machine.
 ### Prerequisites
 
 Before running the project, you need to install the required Python packages:
